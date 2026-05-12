@@ -87,7 +87,7 @@
 #   def __str__(self):
 #     return(f"human's name is {self.name}") 
   
-# sujita = HumanSpecies("nischal") 
+# sujita = HumanSpecies("sujita") 
 # print(sujita)
 
 class Animal:
