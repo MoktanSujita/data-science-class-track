@@ -34,4 +34,12 @@ print(data.iloc[data['EmployeeName']=='SANAM MARIKHU'])
 # print(data['BasePay'].fillna(data['BasePay'].mean()))
 # print(data['BasePay'].isnull())
 # print(data['BasePay'].isnull().sum())
+mean_salaries = data['BasePay'].mean()
+print(mean_salaries)
+standard_deviation=data['OtherPay'].std()
+print(standard_deviation)
+print(data['JobTitle'].unique)
+i=0
+(data['JobTitle']=='TRANSIT OPERATOR').sum
+ 
 
