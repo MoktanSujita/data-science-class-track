@@ -1,4 +1,4 @@
-.venv
-.txt
-.csv
-.jpg
+*.venv
+*.txt
+*.csv
+*.jpg
